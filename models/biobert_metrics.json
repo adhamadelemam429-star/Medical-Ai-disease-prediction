@@ -1,0 +1,47 @@
+{
+  "model": "BioBERT",
+  "model_family": "transformer",
+  "model_name": "dmis-lab/biobert-base-cased-v1.2",
+  "training_samples": 1296,
+  "validation_samples": 274,
+  "test_samples": 362,
+  "num_classes": 429,
+  "validation": {
+    "loss": 5.511140447463433,
+    "accuracy": 0.12408759124087591,
+    "weighted_f1": 0.060165135474561045,
+    "macro_f1": 0.05972915623199176,
+    "top_3_accuracy": 0.19708029197080293,
+    "top_5_accuracy": 0.24817518248175183
+  },
+  "test": {
+    "loss": 5.622203094524573,
+    "accuracy": 0.08287292817679558,
+    "weighted_f1": 0.034050989786241145,
+    "macro_f1": 0.033957185406664724,
+    "top_3_accuracy": 0.1408839779005525,
+    "top_5_accuracy": 0.1685082872928177
+  },
+  "best_validation_score": 0.15395216935687178,
+  "best_validation_metrics": {
+    "loss": 5.511140447463433,
+    "accuracy": 0.12408759124087591,
+    "weighted_f1": 0.060165135474561045,
+    "macro_f1": 0.05972915623199176,
+    "top_3_accuracy": 0.19708029197080293,
+    "top_5_accuracy": 0.24817518248175183
+  },
+  "configuration": {
+    "model_name": "dmis-lab/biobert-base-cased-v1.2",
+    "max_length": 192,
+    "batch_size": 4,
+    "epochs": 3,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "gradient_accumulation": 4,
+    "num_classes": 429,
+    "hidden_size": 768,
+    "dropout": 0.3,
+    "device": "cpu"
+  }
+}

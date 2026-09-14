@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Allergies",
+        "URL": "https://www.nhsinform.scot/illnesses-and-conditions/immune-system/allergies/",
+        "Error": "Could not extract disease name"
+    },
+    {
+        "Name": "Carpal tunnel syndrome",
+        "URL": "https://www.nhsinform.scot/illnesses-and-conditions/muscle-bone-and-joints/arm-shoulder-and-hand-problems-and-conditions/carpal-tunnel-syndrome/",
+        "Error": "Could not extract disease name"
+    },
+    {
+        "Name": "Eating disorders",
+        "URL": "https://www.nhsinform.scot/illnesses-and-conditions/mental-health/eating-disorders/",
+        "Error": "Could not extract disease name"
+    },
+    {
+        "Name": "Hypoglycaemia (low blood sugar)",
+        "URL": "https://www.nhsinform.scot/illnesses-and-conditions/blood-and-lymph/hypoglycaemia-low-blood-sugar/",
+        "Error": "Could not extract disease name"
+    },
+    {
+        "Name": "Lymphogranuloma venereum (LGV)",
+        "URL": "https://www.nhsinform.scot/illnesses-and-conditions/sexual-and-reproductive/lymphogranuloma-venereum-lgv/",
+        "Error": "Could not extract disease name"
+    },
+    {
+        "Name": "Talking to children and teenagers about cancer",
+        "URL": "https://www.nhsinform.scot/illnesses-and-conditions/cancer/emotional-issues/talking-to-children-and-teenagers-about-cancer/",
+        "Error": "Could not extract disease name"
+    }
+]

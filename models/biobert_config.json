@@ -1,0 +1,13 @@
+{
+  "model_name": "dmis-lab/biobert-base-cased-v1.2",
+  "max_length": 192,
+  "batch_size": 4,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "gradient_accumulation": 4,
+  "num_classes": 429,
+  "hidden_size": 768,
+  "dropout": 0.3,
+  "device": "cpu"
+}

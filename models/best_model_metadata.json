@@ -1,0 +1,9 @@
+{
+    "best_model": "Improved Logistic Regression",
+    "model_family": "sklearn",
+    "selection_score": 0.8375,
+    "active_model": "E:\\Amit_AI\\Medical_AI_project\\models\\active_model.joblib",
+    "test_accuracy": 0.8314917127071824,
+    "test_weighted_f1": 0.806958695080242,
+    "test_macro_f1": 0.8025248560962845
+}

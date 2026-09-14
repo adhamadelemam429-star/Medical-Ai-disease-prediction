@@ -1,0 +1,12 @@
+environment/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+.env
+*.log
+
+# Large trained model files
+models/*.joblib
+models/*.pt

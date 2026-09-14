@@ -1,0 +1,40 @@
+[
+    {
+        "model": "Improved Logistic Regression",
+        "model_family": "sklearn",
+        "test_accuracy": 0.8314917127071824,
+        "test_weighted_f1": 0.806958695080242,
+        "test_macro_f1": 0.8025248560962845,
+        "validation_accuracy": 0.8686,
+        "validation_weighted_f1": 0.8467,
+        "validation_macro_f1": 0.8375
+    },
+    {
+        "model": "BioBERT",
+        "model_family": "transformer",
+        "validation_accuracy": null,
+        "validation_weighted_f1": null,
+        "validation_macro_f1": null,
+        "validation_top_3_accuracy": null,
+        "validation_top_5_accuracy": null,
+        "test_accuracy": null,
+        "test_weighted_f1": null,
+        "test_macro_f1": null,
+        "test_top_3_accuracy": null,
+        "test_top_5_accuracy": null
+    },
+    {
+        "model": "Bidirectional LSTM",
+        "model_family": "lstm",
+        "validation_accuracy": null,
+        "validation_weighted_f1": null,
+        "validation_macro_f1": null,
+        "validation_top_3_accuracy": null,
+        "validation_top_5_accuracy": null,
+        "test_accuracy": 0.049723756906077346,
+        "test_weighted_f1": 0.03706261510128913,
+        "test_macro_f1": 0.035030461270670145,
+        "test_top_3_accuracy": null,
+        "test_top_5_accuracy": null
+    }
+]

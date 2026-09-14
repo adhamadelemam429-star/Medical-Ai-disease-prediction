@@ -1,0 +1,4 @@
+model,model_family,test_accuracy,test_weighted_f1,test_macro_f1,validation_accuracy,validation_weighted_f1,validation_macro_f1,validation_top_3_accuracy,validation_top_5_accuracy,test_top_3_accuracy,test_top_5_accuracy,selection_score
+Improved Logistic Regression,sklearn,0.8314917127071824,0.806958695080242,0.8025248560962845,0.8686,0.8467,0.8375,,,,,0.8375
+BioBERT,transformer,,,,,,,,,,,0.0
+Bidirectional LSTM,lstm,0.049723756906077346,0.03706261510128913,0.035030461270670145,,,,,,,,0.035030461270670145
